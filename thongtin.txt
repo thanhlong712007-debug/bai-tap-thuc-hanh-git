@@ -1,2 +1,3 @@
 Bài thực hành Git cá nhân
 Họ và tên: Phan Phú Thành Long
+Dòng này bị viết sai cú pháp nghiêm trọng# Commit 6: Viết một đoạn code/nội dung bị lỗi ngớ ngẩn nào đó!
